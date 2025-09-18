@@ -1,0 +1,1 @@
+## python3 voice_intent.py --model vosk-model-small-en-us-0.15
